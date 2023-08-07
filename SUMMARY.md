@@ -61,7 +61,7 @@
     * [1074. Number of Submatrices That Sum to Target](data-structures/hashmap/hashmap-+-subarray-sum/1074.-number-of-submatrices-that-sum-to-target.md)
     * [325. Maximum Size Subarray Sum Equals k](data-structures/hashmap/hashmap-+-subarray-sum/325.-maximum-size-subarray-sum-equals-k.md)
     * [523. Continuous Subarray Sum](data-structures/hashmap/hashmap-+-subarray-sum/523.-continuous-subarray-sum.md)
-    * [525. Continuous Array](data-structures/hashmap/hashmap-+-subarray-sum/525.-contiguous-array.md)
+    * [525. Continuous Array](data-structures/hashmap/hashmap-+-subarray-sum/525.-continuous-array.md)
   * [Hashmap + Frequency](data-structures/hashmap/hashmap-+-frequency/README.md)
     * [242. Valid Anagram](data-structures/hashmap/hashmap-+-frequency/242.-valid-anagram.md)
     * [316. Remove Duplicate Letters](data-structures/hashmap/hashmap-+-frequency/316.-remove-duplicate-letters.md)
