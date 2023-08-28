@@ -56,6 +56,7 @@
     * [299. Bulls and Cows](data-structures/hashmap/hashmap-+-array/299.-bulls-and-cows.md)
     * [771. Jewels and Stones](data-structures/hashmap/hashmap-+-array/771.-jewels-and-stones.md)
     * [217. Contains Duplicate](data-structures/hashmap/hashmap-+-array/217.-contains-duplicate.md)
+    * [220. Contains Duplicate III](data-structures/hashmap/hashmap-+-array/220.-contains-duplicate-iii.md)
     * [734. Sentence Similarity](data-structures/hashmap/hashmap-+-array/734.-sentence-similarity.md)
     * [356. Line Reflection](data-structures/hashmap/hashmap-+-array/356.-line-reflection.md)
   * [Hashmap + Subarray Sum](data-structures/hashmap/hashmap-+-subarray-sum/README.md)
