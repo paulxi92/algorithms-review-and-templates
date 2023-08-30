@@ -656,6 +656,7 @@
 * [Big Data (LintCode)](others/big-data-lintcode/README.md)
   * [499. Word Count (Map Reduce)](others/big-data-lintcode/499.-word-count-map-reduce.md)
   * [503. Anagram (Map Reduce)](others/big-data-lintcode/503.-anagram-map-reduce.md)
+  * [504. Inverted Index (Map Reduce)](others/big-data-lintcode/504.-inverted-index-map-reduce.md)
 
 ## Index <a href="#problem-list" id="problem-list"></a>
 
