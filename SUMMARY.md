@@ -655,6 +655,7 @@
   * [708 · Elevator system - OO Design](others/ood-lintcode/708-elevator-system-oo-design.md)
 * [Big Data (LintCode)](others/big-data-lintcode/README.md)
   * [499. Word Count (Map Reduce)](others/big-data-lintcode/499.-word-count-map-reduce.md)
+  * [503. Anagram (Map Reduce)](others/big-data-lintcode/503.-anagram-map-reduce.md)
 
 ## Index <a href="#problem-list" id="problem-list"></a>
 
