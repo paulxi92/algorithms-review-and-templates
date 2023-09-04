@@ -423,7 +423,6 @@
     * [27. Remove Element](advanced-methods/two-pointers/two-pointers-from-start/27.-remove-element.md)
     * [26. Remove Duplicates from Sorted Array](advanced-methods/two-pointers/two-pointers-from-start/26.-remove-duplicates-from-sorted-array.md)
     * [80. Remove Duplicates from Sorted Array II](advanced-methods/two-pointers/two-pointers-from-start/80.-remove-duplicates-from-sorted-array-ii.md)
-    * [19. Remove Nth Node From End of List](advanced-methods/two-pointers/two-pointers-from-start/19.-remove-nth-node-from-end-of-list.md)
     * [243. Shortest Word Distance](advanced-methods/two-pointers/two-pointers-from-start/243.-shortest-word-distance.md)
     * [244. Shortest Word Distance II](advanced-methods/two-pointers/two-pointers-from-start/244.-shortest-word-distance-ii.md)
     * [245. Shortest Word Distance III](advanced-methods/two-pointers/two-pointers-from-start/245.-shortest-word-distance-iii.md)
