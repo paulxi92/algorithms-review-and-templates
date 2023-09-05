@@ -440,7 +440,7 @@
     * [86. Partition List](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/86.-partition-list.md)
     * [986. Interval List Intersections](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/986.-interval-list-intersections.md)
     * [1229. Meeting Scheduler](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/1229.-meeting-scheduler.md)
-    * [349. Intersection of Two Arrays](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/untitled.md)
+    * [349. Intersection of Two Arrays](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/349.-intersection-of-two-arrays.md)
     * [350. Intersection of Two Arrays II](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/350.-intersection-of-two-arrays-ii.md)
     * [1213. Intersection of Three Sorted Arrays](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/1213.-intersection-of-three-sorted-arrays.md)
     * [1570. Dot Product of Two Sparse Vectors](advanced-methods/two-pointers/two-pointers-for-two-arrays-lists/1570.-dot-product-of-two-sparse-vectors.md)
