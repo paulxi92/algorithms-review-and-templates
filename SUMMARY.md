@@ -427,7 +427,7 @@
     * [244. Shortest Word Distance II](advanced-methods/two-pointers/two-pointers-from-start/244.-shortest-word-distance-ii.md)
     * [245. Shortest Word Distance III](advanced-methods/two-pointers/two-pointers-from-start/245.-shortest-word-distance-iii.md)
     * [283. Move Zeroes](advanced-methods/two-pointers/two-pointers-from-start/283.-move-zeroes.md)
-    * [209. Minimum Size Subarray Sum](advanced-methods/two-pointers/two-pointers-from-start/untitled.md)
+    * [209. Minimum Size Subarray Sum](advanced-methods/two-pointers/two-pointers-from-start/209.-minimum-size-subarray-sum.md)
     * [795. Number of Subarrays with Bounded Maximum](advanced-methods/two-pointers/two-pointers-from-start/795.-number-of-subarrays-with-bounded-maximum.md)
     * [763. Partition Labels](advanced-methods/two-pointers/two-pointers-from-start/763.-partition-labels.md)
     * [228. Summary Ranges](advanced-methods/two-pointers/two-pointers-from-start/228.-summary-ranges.md)
