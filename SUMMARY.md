@@ -638,7 +638,7 @@
   * [Application Design](others/design/application-design/README.md)
     * [362. Design Hit Counter](others/design/application-design/362.-design-hit-counter.md)
     * [359. Logger Rate Limiter](others/design/application-design/359.-logger-rate-limiter.md)
-    * [1472. Design Browser History](others/design/application-design/359.-logger-rate-limiter-1.md)
+    * [1472. Design Browser History](others/design/application-design/1472.-design-browser-history.md)
     * [348. Design Tic-Tac-Toe](others/design/application-design/348.-design-tic-tac-toe.md)
     * [353. Design Snake Game](others/design/application-design/353.-design-snake-game.md)
     * [355. Design Twitter](others/design/application-design/355.-design-twitter.md)
