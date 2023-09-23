@@ -560,6 +560,7 @@
     * [118. Pascal's Triangle](advanced-methods/dynamic-programming/matrix/118.-pascals-triangle.md)
     * [119. Pascal's Triangle II](advanced-methods/dynamic-programming/matrix/119.-pascals-triangle-ii.md)
     * [120. Triangle](advanced-methods/dynamic-programming/matrix/120.-triangle.md)
+    * [799. Champagne Tower](advanced-methods/dynamic-programming/matrix/799.-champagne-tower.md)
     * [221. Maximal Square](advanced-methods/dynamic-programming/matrix/221.-maximal-square.md)
     * [303. Range Sum Query - Immutable](advanced-methods/dynamic-programming/matrix/303.-range-sum-query-immutable.md)
     * [304. Range Sum Query 2D - Immutable](advanced-methods/dynamic-programming/matrix/304.-range-sum-query-2d-immutable.md)
