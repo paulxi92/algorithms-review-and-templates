@@ -570,6 +570,7 @@
   * [211. Design Add and Search Words Data Structure](advanced-methods/trie/211.-design-add-and-search-words-data-structure.md)
   * [642. Design Search Autocomplete System](advanced-methods/trie/642.-design-search-autocomplete-system.md)
   * [425. Word Squares](advanced-methods/trie/425.-word-squares.md)
+  * [588. Design In-Memory File System](advanced-methods/trie/588.-design-in-memory-file-system.md)
 * [Binary Indexed Tree](advanced-methods/binary-indexed-tree.md)
 * [Bit Manipulation](advanced-methods/bit-manipulation/README.md)
   * [136. Single Number](advanced-methods/bit-manipulation/136.-single-number.md)
