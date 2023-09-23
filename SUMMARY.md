@@ -465,6 +465,7 @@
     * [698. Partition to K Equal Sum Subsets](advanced-methods/backtracking/array/698.-partition-to-k-equal-sum-subsets.md)
   * [String](advanced-methods/backtracking/string/README.md)
     * [22. Generate Parentheses](advanced-methods/backtracking/string/22.-generate-parentheses.md)
+    * [856. Score of Parenthese](advanced-methods/backtracking/string/856.-score-of-parenthese.md)
     * [17. Letter Combinations of a Phone Number](advanced-methods/backtracking/string/17.-letter-combinations-of-a-phone-number.md)
     * [282. Expression Add Operators](advanced-methods/backtracking/string/282.-expression-add-operators.md)
     * [241. Different Ways to Add Parentheses](advanced-methods/backtracking/string/241.-different-ways-to-add-parentheses.md)
