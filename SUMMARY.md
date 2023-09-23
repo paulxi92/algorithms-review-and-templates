@@ -380,6 +380,7 @@
   * [55. Jump Game](basic-algorithms/greedy/55.-jump-game.md)
   * [45. Jump Game II](basic-algorithms/greedy/45.-jump-game-ii.md)
   * [134. Gas Station](basic-algorithms/greedy/134.-gas-station.md)
+  * [1029. Two City Scheduling](basic-algorithms/greedy/1029.-two-city-scheduling.md)
 
 ## Advanced Methods
 
