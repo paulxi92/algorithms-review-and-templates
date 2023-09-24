@@ -281,6 +281,7 @@
     * [269. Alien Dictionary](data-structures/graph/bfs-topological-sort/269.-alien-dictionary.md)
     * [207. Course Schedule](data-structures/graph/bfs-topological-sort/207.-course-schedule.md)
     * [210. Course Schedule II](data-structures/graph/bfs-topological-sort/210.-course-schedule-ii.md)
+    * [2115. Find All Possible Recipes from Given Supplies](data-structures/graph/bfs-topological-sort/2115.-find-all-possible-recipes-from-given-supplies.md)
   * [Matrix](data-structures/graph/matrix/README.md)
     * [200. Number of Islands](data-structures/graph/matrix/200.-number-of-islands.md)
     * [305. Number of Islands II](data-structures/graph/matrix/305.-number-of-islands-ii.md)
