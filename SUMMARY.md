@@ -199,6 +199,7 @@
       * [543. Diameter of Binary Tree](data-structures/tree/binary-tree-+-path/node-to-node/543.-diameter-of-binary-tree.md)
       * [687. Longest Univalue Path](data-structures/tree/binary-tree-+-path/node-to-node/687.-longest-univalue-path.md)
       * [549. Binary Tree Longest Consecutive Sequence II](data-structures/tree/binary-tree-+-path/node-to-node/549.-binary-tree-longest-consecutive-sequence-ii.md)
+      * [2096. Step-By-Step Directions From a Binary Tree Node to Another](data-structures/tree/binary-tree-+-path/node-to-node/2096.-step-by-step-directions-from-a-binary-tree-node-to-another.md)
   * [Binary Tree + Subtree](data-structures/tree/binary-tree-+-subtree/README.md)
     * [508. Most Frequent Subtree Sum](data-structures/tree/binary-tree-+-subtree/508.-most-frequent-subtree-sum.md)
     * [572. Subtree of Another Tree](data-structures/tree/binary-tree-+-subtree/572.-subtree-of-another-tree.md)
