@@ -326,6 +326,7 @@
     * [57. Insert Interval](basic-algorithms/sort/interval/57.-insert-interval.md)
     * [56. Merge Intervals](basic-algorithms/sort/interval/56.-merge-intervals.md)
     * [435. Non-overlapping Intervals](basic-algorithms/sort/interval/435.-non-overlapping-intervals.md)
+    * [2158. Amount of New Area Painted Each Day](basic-algorithms/sort/interval/2158.-amount-of-new-area-painted-each-day.md)
     * [252. Meeting Rooms](basic-algorithms/sort/interval/252.-meeting-rooms.md)
     * [253. Meeting Rooms II](basic-algorithms/sort/interval/253.-meeting-rooms-ii.md)
     * [759. Employee Free Time](basic-algorithms/sort/interval/759.-employee-free-time.md)
