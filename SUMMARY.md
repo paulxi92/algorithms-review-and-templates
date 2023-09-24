@@ -191,6 +191,7 @@
       * [112. Path Sum](data-structures/tree/binary-tree-+-path/parent-to-child/112.-path-sum.md)
       * [113. Path Sum II](data-structures/tree/binary-tree-+-path/parent-to-child/113.-path-sum-ii.md)
       * [437. Path Sum III](data-structures/tree/binary-tree-+-path/parent-to-child/437.-path-sum-iii.md)
+      * [666. Path Sum IV](data-structures/tree/binary-tree-+-path/parent-to-child/666.-path-sum-iv.md)
       * [129. Sum Root to Leaf Numbers](data-structures/tree/binary-tree-+-path/parent-to-child/129.-sum-root-to-leaf-numbers.md)
       * [298. Binary Tree Longest Consecutive Sequence](data-structures/tree/binary-tree-+-path/parent-to-child/298.-binary-tree-longest-consecutive-sequence.md)
     * [Node to Node](data-structures/tree/binary-tree-+-path/node-to-node/README.md)
