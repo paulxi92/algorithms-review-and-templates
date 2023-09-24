@@ -336,6 +336,7 @@
     * [912. Sort an Array](basic-algorithms/sort/others/912.-sort-an-array.md)
     * [148. Sort List](basic-algorithms/sort/others/148.-sort-list.md)
     * [179. Largest Number](basic-algorithms/sort/others/179.-largest-number.md)
+    * [1366. Rank Teams by Votes](basic-algorithms/sort/others/1366.-rank-teams-by-votes.md)
     * [1057. Campus Bikes](basic-algorithms/sort/others/1057.-campus-bikes.md)
     * [296. Best Meeting Point](basic-algorithms/sort/others/296.-best-meeting-point.md)
     * [280. Wiggle Sort](basic-algorithms/sort/others/280.-wiggle-sort.md)
