@@ -45,6 +45,7 @@
     * [498. Diagonal Traverse](data-structures/array-string/matrix/498.-diagonal-traverse.md)
     * [54. Spiral Matrix](data-structures/array-string/matrix/54.-spiral-matrix.md)
     * [418. Sentence Screen Fitting](data-structures/array-string/matrix/418.-sentence-screen-fitting.md)
+    * [1861. Rotating the Box](data-structures/array-string/matrix/1861.-rotating-the-box.md)
 * [Hashmap](data-structures/hashmap/README.md)
   * [Hashmap + Array](data-structures/hashmap/hashmap-+-array/README.md)
     * [1. Two Sum](data-structures/hashmap/hashmap-+-array/1.-two-sum.md)
