@@ -276,6 +276,7 @@
     * [1293. Shortest Path in a Grid with Obstacles Elimination](data-structures/graph/bfs-shortest-path/1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
     * [909. Snakes and Ladders](data-structures/graph/bfs-shortest-path/909.-snakes-and-ladders.md)
     * [815. Bus Routes](data-structures/graph/bfs-shortest-path/815.-bus-routes.md)
+    * [1345. Jump Game IV](data-structures/graph/bfs-shortest-path/1345.-jump-game-iv.md)
     * [310. Minimum Height Trees](data-structures/graph/bfs-shortest-path/310.-minimum-height-trees.md)
     * [743. Network Delay Time](data-structures/graph/bfs-shortest-path/743.-network-delay-time.md)
   * [BFS - Topological Sort](data-structures/graph/bfs-topological-sort/README.md)
