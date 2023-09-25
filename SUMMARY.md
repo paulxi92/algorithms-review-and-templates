@@ -531,6 +531,7 @@
       * [132. Palindrome Partitioning II](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/132.-palindrome-partitioning-ii.md)
       * [689. Maximum Sum of 3 Non-Overlapping Subarrays](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/689.-maximum-sum-of-3-non-overlapping-subarrays.md)
       * [494. Target Sum](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/494.-target-sum.md)
+      * [1335. Minimum Difficulty of a Job Schedule](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/1335.-minimum-difficulty-of-a-job-schedule.md)
       * [410. Split Array Largest Sum](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/410.-split-array-largest-sum.md)
     * [Interval](advanced-methods/dynamic-programming/single-sequence/interval/README.md)
       * [516. Longest Palindromic Subsequence](advanced-methods/dynamic-programming/single-sequence/interval/516.-longest-palindromic-subsequence.md)
