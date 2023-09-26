@@ -262,6 +262,7 @@
     * [671. Second Minimum Node In a Binary Tree](data-structures/tree/binary-tree-others/671.-second-minimum-node-in-a-binary-tree.md)
     * [255. Verify Preorder Sequence in Binary Search Tree](data-structures/tree/binary-tree-others/255.-verify-preorder-sequence-in-binary-search-tree.md)
     * [331. Verify Preorder Serialization of a Binary Tree](data-structures/tree/binary-tree-others/331.-verify-preorder-serialization-of-a-binary-tree.md)
+    * [834. Sum of Distances in Tree](data-structures/tree/binary-tree-others/834.-sum-of-distances-in-tree.md)
 * [Graph](data-structures/graph/README.md)
   * [BFS - Shortest Path](data-structures/graph/bfs-shortest-path/README.md)
     * [863. All Nodes Distance K in Binary Tree](data-structures/graph/bfs-shortest-path/863.-all-nodes-distance-k-in-binary-tree.md)
