@@ -182,6 +182,7 @@
       * [107. Binary Tree Level Order Traversal II](data-structures/tree/binary-tree-traversal/queue-based/107.-binary-tree-level-order-traversal-ii.md)
       * [103. Binary Tree Zigzag Level Order Traversal](data-structures/tree/binary-tree-traversal/queue-based/103.-binary-tree-zigzag-level-order-traversal.md)
       * [314. Binary Tree Vertical Order Traversal](data-structures/tree/binary-tree-traversal/queue-based/314.-binary-tree-vertical-order-traversal.md)
+      * [662. Maximum Width of Binary Tree](data-structures/tree/binary-tree-traversal/queue-based/662.-maximum-width-of-binary-tree.md)
     * [Stack-based](data-structures/tree/binary-tree-traversal/stack-based/README.md)
       * [94. Binary Tree Inorder Traversal](data-structures/tree/binary-tree-traversal/stack-based/94.-binary-tree-inorder-traversal.md)
       * [144. Binary Tree Preorder Traversal](data-structures/tree/binary-tree-traversal/stack-based/144.-binary-tree-preorder-traversal.md)
