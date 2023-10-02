@@ -148,6 +148,7 @@
     * [20. Valid Parentheses](data-structures/stack/sequence-processing/20.-valid-parentheses.md)
     * [1249. Minimum Remove to Make Valid Parentheses](data-structures/stack/sequence-processing/1249.-minimum-remove-to-make-valid-parentheses.md)
     * [1047. Remove All Adjacent Duplicates In String](data-structures/stack/sequence-processing/1047.-remove-all-adjacent-duplicates-in-string.md)
+    * [1209. Remove All Adjacent Duplicates In String II](data-structures/stack/sequence-processing/1209.-remove-all-adjacent-duplicates-in-string-ii.md)
     * [735. Asteroid Collision](data-structures/stack/sequence-processing/735.-asteroid-collision.md)
     * [636. Exclusive Time of Functions](data-structures/stack/sequence-processing/636.-exclusive-time-of-functions.md)
     * [71. Simplify Path](data-structures/stack/sequence-processing/71.-simplify-path.md)
