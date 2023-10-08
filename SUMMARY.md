@@ -526,6 +526,7 @@
       * [188. Best Time to Buy and Sell Stock IV](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/188.-best-time-to-buy-and-sell-stock-iv.md)
       * [1048. Longest String Chain](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1048.-longest-string-chain.md)
       * [1235. Maximum Profit in Job Scheduling](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1235.-maximum-profit-in-job-scheduling.md)
+      * [1751. Maximum Number of Events That Can Be Attended II](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1751.-maximum-number-of-events-that-can-be-attended-ii.md)
     * [Partition/sum first i elements](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/README.md)
       * [139. Word Break](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/139.-word-break.md)
       * [140. Word Break II](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/140.-word-break-ii.md)
