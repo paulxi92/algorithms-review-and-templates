@@ -528,6 +528,7 @@
       * [188. Best Time to Buy and Sell Stock IV](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/188.-best-time-to-buy-and-sell-stock-iv.md)
       * [1048. Longest String Chain](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1048.-longest-string-chain.md)
       * [2472. Maximum Number of Non-overlapping Palindrome Substrings](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/2472.-maximum-number-of-non-overlapping-palindrome-substrings.md)
+      * [940. Distinct Subsequences II](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/940.-distinct-subsequences-ii.md)
     * [Partition/sum first i elements](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/README.md)
       * [139. Word Break](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/139.-word-break.md)
       * [140. Word Break II](advanced-methods/dynamic-programming/single-sequence/partition-sum-first-i-elements/140.-word-break-ii.md)
