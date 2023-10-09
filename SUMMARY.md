@@ -74,6 +74,7 @@
     * [30. Substring with Concatenation of All Words](data-structures/hashmap/hashmap-+-frequency/30.-substring-with-concatenation-of-all-words.md)
     * [274. H-Index](data-structures/hashmap/hashmap-+-frequency/274.-h-index.md)
     * [266. Palindrome Permutation](data-structures/hashmap/hashmap-+-frequency/266.-palindrome-permutation.md)
+    * [Page](data-structures/hashmap/hashmap-+-frequency/page.md)
     * [791. Custom Sort String](data-structures/hashmap/hashmap-+-frequency/791.-custom-sort-string.md)
   * [Hashmap + Index](data-structures/hashmap/hashmap-+-index/README.md)
     * [49. Group Anagrams](data-structures/hashmap/hashmap-+-index/49.-group-anagrams.md)
