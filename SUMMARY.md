@@ -445,6 +445,7 @@
     * [283. Move Zeroes](advanced-methods/two-pointers/two-pointers-from-start/283.-move-zeroes.md)
     * [209. Minimum Size Subarray Sum](advanced-methods/two-pointers/two-pointers-from-start/209.-minimum-size-subarray-sum.md)
     * [795. Number of Subarrays with Bounded Maximum](advanced-methods/two-pointers/two-pointers-from-start/795.-number-of-subarrays-with-bounded-maximum.md)
+    * [2444. Count Subarrays With Fixed Bounds](advanced-methods/two-pointers/two-pointers-from-start/2444.-count-subarrays-with-fixed-bounds.md)
     * [228. Summary Ranges](advanced-methods/two-pointers/two-pointers-from-start/228.-summary-ranges.md)
     * [28. Implement strStr()](advanced-methods/two-pointers/two-pointers-from-start/28.-implement-strstr.md)
     * [977. Squares of a Sorted Array](advanced-methods/two-pointers/two-pointers-from-start/977.-squares-of-a-sorted-array.md)
