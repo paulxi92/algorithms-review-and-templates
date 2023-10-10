@@ -436,6 +436,7 @@
     * [345. Reverse Vowels of a String](advanced-methods/two-pointers/two-pointers-from-start-and-end/345.-reverse-vowels-of-a-string.md)
     * [246. Strobogrammatic Number](advanced-methods/two-pointers/two-pointers-from-start-and-end/246.-strobogrammatic-number.md)
     * [9. Palindrome Number](advanced-methods/two-pointers/two-pointers-from-start-and-end/9.-palindrome-number.md)
+    * [881. Boats to Save People](advanced-methods/two-pointers/two-pointers-from-start-and-end/881.-boats-to-save-people.md)
   * [Two Pointers from Start](advanced-methods/two-pointers/two-pointers-from-start/README.md)
     * [27. Remove Element](advanced-methods/two-pointers/two-pointers-from-start/27.-remove-element.md)
     * [26. Remove Duplicates from Sorted Array](advanced-methods/two-pointers/two-pointers-from-start/26.-remove-duplicates-from-sorted-array.md)
