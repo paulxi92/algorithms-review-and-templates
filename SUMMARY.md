@@ -667,6 +667,7 @@
     * [355. Design Twitter](others/design/application-design/355.-design-twitter.md)
     * [1472. Design Browser History](others/design/application-design/1472.-design-browser-history.md)
     * [642. Design Search Autocomplete System](others/design/application-design/642.-design-search-autocomplete-system.md)
+    * [588. Design In-Memory File System](others/design/application-design/588.-design-in-memory-file-system.md)
     * [348. Design Tic-Tac-Toe](others/design/application-design/348.-design-tic-tac-toe.md)
     * [353. Design Snake Game](others/design/application-design/353.-design-snake-game.md)
     * [379. Design Phone Directory](others/design/application-design/379.-design-phone-directory.md)
