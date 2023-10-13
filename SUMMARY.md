@@ -641,6 +641,7 @@
 * [Rolling Hash](advanced-methods/rolling-hash/README.md)
   * [Basics](advanced-methods/rolling-hash/basics.md)
   * [28. Find the Index of the First Occurrence in a String (strStr)](advanced-methods/rolling-hash/28.-find-the-index-of-the-first-occurrence-in-a-string-strstr.md)
+  * [1698. Number of Distinct Substrings in a String](advanced-methods/rolling-hash/1698.-number-of-distinct-substrings-in-a-string.md)
   * [1960. Maximum Product of the Length of Two Palindromic Substrings](advanced-methods/rolling-hash/1960.-maximum-product-of-the-length-of-two-palindromic-substrings.md)
 
 ## Others
