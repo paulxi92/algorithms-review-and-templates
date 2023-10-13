@@ -556,6 +556,8 @@
       * [375. Guess Number Higher or Lower II](advanced-methods/dynamic-programming/single-sequence/interval/375.-guess-number-higher-or-lower-ii.md)
       * [1547. Minimum Cost to Cut a Stick](advanced-methods/dynamic-programming/single-sequence/interval/1547.-minimum-cost-to-cut-a-stick.md)
       * [730. Count Different Palindromic Subsequences](advanced-methods/dynamic-programming/single-sequence/interval/730.-count-different-palindromic-subsequences.md)
+    * [Others](advanced-methods/dynamic-programming/single-sequence/others/README.md)
+      * [2002. Maximum Product of the Length of Two Palindromic Subsequences](advanced-methods/dynamic-programming/single-sequence/others/2002.-maximum-product-of-the-length-of-two-palindromic-subsequences.md)
   * [Two Sequences](advanced-methods/dynamic-programming/two-sequences/README.md)
     * [1143. Longest Common Subsequence](advanced-methods/dynamic-programming/two-sequences/1143.-longest-common-subsequence.md)
     * [1216. Valid Palindrome III](advanced-methods/dynamic-programming/two-sequences/1216.-valid-palindrome-iii.md)
