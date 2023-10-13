@@ -530,7 +530,7 @@
       * [123. Best Time to Buy and Sell Stock III](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/123.-best-time-to-buy-and-sell-stock-iii.md)
       * [188. Best Time to Buy and Sell Stock IV](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/188.-best-time-to-buy-and-sell-stock-iv.md)
       * [1048. Longest String Chain](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1048.-longest-string-chain.md)
-      * [Page](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/page.md)
+      * [1639. Number of Ways to Form a Target String Given a Dictionary](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1639.-number-of-ways-to-form-a-target-string-given-a-dictionary.md)
       * [2472. Maximum Number of Non-overlapping Palindrome Substrings](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/2472.-maximum-number-of-non-overlapping-palindrome-substrings.md)
       * [940. Distinct Subsequences II](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/940.-distinct-subsequences-ii.md)
       * [1987. Number of Unique Good Subsequences](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/1987.-number-of-unique-good-subsequences.md)
