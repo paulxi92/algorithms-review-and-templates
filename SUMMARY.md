@@ -75,6 +75,7 @@
     * [274. H-Index](data-structures/hashmap/hashmap-+-frequency/274.-h-index.md)
     * [266. Palindrome Permutation](data-structures/hashmap/hashmap-+-frequency/266.-palindrome-permutation.md)
     * [697. Degree of an Array](data-structures/hashmap/hashmap-+-frequency/697.-degree-of-an-array.md)
+    * [532. K-diff Pairs in an Array](data-structures/hashmap/hashmap-+-frequency/532.-k-diff-pairs-in-an-array.md)
     * [791. Custom Sort String](data-structures/hashmap/hashmap-+-frequency/791.-custom-sort-string.md)
   * [Hashmap + Index](data-structures/hashmap/hashmap-+-index/README.md)
     * [49. Group Anagrams](data-structures/hashmap/hashmap-+-index/49.-group-anagrams.md)
