@@ -417,6 +417,7 @@
       * [424. Longest Repeating Character Replacement](advanced-methods/two-pointers/dynamic-sliding-window/max-sliding-window/424.-longest-repeating-character-replacement.md)
     * [Substring/Subarray Count](advanced-methods/two-pointers/dynamic-sliding-window/substring-subarray-count/README.md)
       * [2062. Count Vowel Substrings of a String](advanced-methods/two-pointers/dynamic-sliding-window/substring-subarray-count/2062.-count-vowel-substrings-of-a-string.md)
+      * [1248. Count Number of Nice Subarrays](advanced-methods/two-pointers/dynamic-sliding-window/substring-subarray-count/1248.-count-number-of-nice-subarrays.md)
     * [Sliding Window Max/Min/Med/Avg](advanced-methods/two-pointers/dynamic-sliding-window/sliding-window-max-min-med-avg/README.md)
       * [239. Sliding Window Maximum](advanced-methods/two-pointers/dynamic-sliding-window/sliding-window-max-min-med-avg/239.-sliding-window-maximum.md)
       * [480. Sliding Window Median](advanced-methods/two-pointers/dynamic-sliding-window/sliding-window-max-min-med-avg/480.-sliding-window-median.md)
