@@ -82,6 +82,7 @@
     * [953. Verifying an Alien Dictionary](data-structures/hashmap/hashmap-+-index/953.-verifying-an-alien-dictionary.md)
     * [219. Contains Duplicate II](data-structures/hashmap/hashmap-+-index/219.-contains-duplicate-ii.md)
     * [249. Group Shifted Strings](data-structures/hashmap/hashmap-+-index/249.-group-shifted-strings.md)
+    * [2062. Count Vowel Substrings of a String](data-structures/hashmap/hashmap-+-index/2062.-count-vowel-substrings-of-a-string.md)
   * [Use Index as Hashkey](data-structures/hashmap/use-index-as-hashkey/README.md)
     * [442. Find All Duplicates in an Array](data-structures/hashmap/use-index-as-hashkey/442.-find-all-duplicates-in-an-array.md)
     * [287. Find the Duplicate Number](data-structures/hashmap/use-index-as-hashkey/287.-find-the-duplicate-number.md)
