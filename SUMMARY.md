@@ -306,6 +306,7 @@
     * [733. Flood Fill](data-structures/graph/matrix/733.-flood-fill.md)
     * [694. Number of Distinct Islands](data-structures/graph/matrix/694.-number-of-distinct-islands.md)
     * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions.md)
+    * [542. 01 Matrix](data-structures/graph/matrix/542.-01-matrix.md)
     * [489. Robot Room Cleaner](data-structures/graph/matrix/489.-robot-room-cleaner.md)
     * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions-1.md)
     * [675. Cut Off Trees for Golf Event](data-structures/graph/matrix/675.-cut-off-trees-for-golf-event.md)
