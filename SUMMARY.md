@@ -308,7 +308,6 @@
     * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions.md)
     * [542. 01 Matrix](data-structures/graph/matrix/542.-01-matrix.md)
     * [489. Robot Room Cleaner](data-structures/graph/matrix/489.-robot-room-cleaner.md)
-    * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions-1.md)
     * [675. Cut Off Trees for Golf Event](data-structures/graph/matrix/675.-cut-off-trees-for-golf-event.md)
   * [Graph Others](data-structures/graph/graph/README.md)
     * [787. Cheapest Flights Within K Stops](data-structures/graph/graph/787.-cheapest-flights-within-k-stops.md)
