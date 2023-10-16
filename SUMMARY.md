@@ -486,6 +486,7 @@
     * [491. Increasing Subsequences](advanced-methods/backtracking/array/491.-increasing-subsequences.md)
     * [679. 24 Game](advanced-methods/backtracking/array/679.-24-game.md)
     * [698. Partition to K Equal Sum Subsets](advanced-methods/backtracking/array/698.-partition-to-k-equal-sum-subsets.md)
+    * [1723. Find Minimum Time to Finish All Jobs](advanced-methods/backtracking/array/1723.-find-minimum-time-to-finish-all-jobs.md)
   * [String](advanced-methods/backtracking/string/README.md)
     * [22. Generate Parentheses](advanced-methods/backtracking/string/22.-generate-parentheses.md)
     * [856. Score of Parentheses](advanced-methods/backtracking/string/856.-score-of-parentheses.md)
