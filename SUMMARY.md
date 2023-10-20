@@ -21,6 +21,7 @@
     * [896. Monotonic Array](data-structures/array-string/array/896.-monotonic-array.md)
     * [414. Third Maximum Number](data-structures/array-string/array/414.-third-maximum-number.md)
     * [189. Rotate Array](data-structures/array-string/array/189.-rotate-array.md)
+    * [1656. Design an Ordered Stream](data-structures/array-string/array/1656.-design-an-ordered-stream.md)
   * [String](data-structures/array-string/string/README.md)
     * [843. Guess the Word](data-structures/array-string/string/843.-guess-the-word.md)
     * [670. Maximum Swap](data-structures/array-string/string/670.-maximum-swap.md)
