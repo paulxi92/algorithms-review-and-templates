@@ -379,6 +379,7 @@
       * [658. Find K Closest Elements](basic-algorithms/binary-search/search-array/advanced/658.-find-k-closest-elements.md)
       * [275. H-Index II](basic-algorithms/binary-search/search-array/advanced/275.-h-index-ii.md)
       * [220. Contains Duplicate III](basic-algorithms/binary-search/search-array/advanced/220.-contains-duplicate-iii.md)
+      * [1712. Ways to Split Array Into Three Subarrays](basic-algorithms/binary-search/search-array/advanced/1712.-ways-to-split-array-into-three-subarrays.md)
   * [Search Matrix](basic-algorithms/binary-search/search-matrix/README.md)
     * [74. Search a 2D Matrix](basic-algorithms/binary-search/search-matrix/74.-search-a-2d-matrix.md)
     * [240. Search a 2D Matrix II](basic-algorithms/binary-search/search-matrix/240.-search-a-2d-matrix-ii.md)
