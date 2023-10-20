@@ -182,6 +182,7 @@
     * [218. The Skyline Problem](data-structures/heap/sort-by-heap/218.-the-skyline-problem.md)
     * [1167. Minimum Cost to Connect Sticks](data-structures/heap/sort-by-heap/1167.-minimum-cost-to-connect-sticks.md)
     * [1383. Maximum Performance of a Team](data-structures/heap/sort-by-heap/1383.-maximum-performance-of-a-team.md)
+    * [1801. Number of Orders in the Backlog](data-structures/heap/sort-by-heap/1801.-number-of-orders-in-the-backlog.md)
 * [Tree](data-structures/tree/README.md)
   * [Binary Tree Traversal](data-structures/tree/binary-tree-traversal/README.md)
     * [Queue-based](data-structures/tree/binary-tree-traversal/queue-based/README.md)
