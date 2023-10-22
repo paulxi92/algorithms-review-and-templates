@@ -345,6 +345,7 @@
     * [2158. Amount of New Area Painted Each Day](basic-algorithms/sort/interval/2158.-amount-of-new-area-painted-each-day.md)
     * [252. Meeting Rooms](basic-algorithms/sort/interval/252.-meeting-rooms.md)
     * [253. Meeting Rooms II](basic-algorithms/sort/interval/253.-meeting-rooms-ii.md)
+    * [1094. Car Pooling](basic-algorithms/sort/interval/1094.-car-pooling.md)
     * [759. Employee Free Time](basic-algorithms/sort/interval/759.-employee-free-time.md)
   * [Others](basic-algorithms/sort/others/README.md)
     * [315. Count of Smaller Numbers After Self](basic-algorithms/sort/others/315.-count-of-smaller-numbers-after-self.md)
