@@ -39,6 +39,7 @@
     * [686. Repeated String Match](data-structures/array-string/string/686.-repeated-string-match.md)
     * [14. Longest Common Prefix](data-structures/array-string/string/14.-longest-common-prefix.md)
     * [271. Encode and Decode Strings](data-structures/array-string/string/271.-encode-and-decode-strings.md)
+    * [443. String Compression](data-structures/array-string/string/443.-string-compression.md)
   * [Matrix](data-structures/array-string/matrix/README.md)
     * [73. Set Matrix Zeroes](data-structures/array-string/matrix/73.-set-matrix-zeroes.md)
     * [766. Toeplitz Matrix](data-structures/array-string/matrix/766.-toeplitz-matrix.md)
