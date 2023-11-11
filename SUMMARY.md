@@ -143,6 +143,7 @@
     * [503. Next Greater Element II](data-structures/stack/increasing-decreasing-stack/503.-next-greater-element-ii.md)
     * [402. Remove K Digits](data-structures/stack/increasing-decreasing-stack/402.-remove-k-digits.md)
     * [739. Daily Temperatures](data-structures/stack/increasing-decreasing-stack/739.-daily-temperatures.md)
+    * [1762. Buildings With an Ocean View](data-structures/stack/increasing-decreasing-stack/1762.-buildings-with-an-ocean-view.md)
     * [255. Verify Preorder Sequence in Binary Search Tree](data-structures/stack/increasing-decreasing-stack/255.-verify-preorder-sequence-in-binary-search-tree.md)
   * [String Decoding/Parsing](data-structures/stack/string-decoding-parsing/README.md)
     * [394. Decode String](data-structures/stack/string-decoding-parsing/394.-decode-string.md)
